@@ -103,15 +103,7 @@ a {
 @media screen and (max-width: 42em) {
   .project-tagline {
     font-size: 1rem; } }
-.nav{
 
-    line-height:30px;
-    background-color:#eeeeee;
-    height:300px;
-    width:100px;
-    float:right;
-    padding:2px; 
-}
 
 .main-content :first-child {
   margin-top: 0; }
@@ -122,6 +114,7 @@ a {
   margin-bottom: 1rem;
   font-weight: normal;
   color: #159957; }
+  text-align:center
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {
