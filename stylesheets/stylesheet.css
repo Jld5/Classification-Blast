@@ -103,15 +103,14 @@ a {
 @media screen and (max-width: 42em) {
   .project-tagline {
     font-size: 1rem; } }
-
-.nav {
+.nav{
 
     line-height:30px;
     background-color:#eeeeee;
     height:300px;
     width:100px;
-    float:left;
-    padding:5px; 
+    float:right;
+    padding:2px; 
 }
 
 .main-content :first-child {
