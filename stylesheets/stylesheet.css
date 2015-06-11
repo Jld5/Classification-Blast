@@ -104,14 +104,14 @@ a {
   .project-tagline {
     font-size: 1rem; } }
 
-#nav {
-line-height: 30px;
-background-color: #eeeeee;
-height:300px
-width:100px
-float:left;
-padding:5px;
+.nav {
 
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px; 
 }
 
 .main-content :first-child {
